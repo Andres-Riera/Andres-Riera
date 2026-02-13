@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Estudiante del grado en Ingeniería Informática de la ULL.
 <!--
 **Andres-Riera/Andres-Riera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
